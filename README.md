@@ -1,4 +1,4 @@
-# **TruthScan Fake News Detection**
+# **TruthScan - Fake News Detection**
 
 This project implements **TruthScan**, a fake news detection system that leverages machine learning algorithms to identify and classify news articles as real or fake. The system analyzes various features of news articles, including text content, writing style, and external data sources, to determine the authenticity of the information.
 
